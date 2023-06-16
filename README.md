@@ -17,4 +17,6 @@
 Поддержать автора.
 DonationAlerts: https://www.donationalerts.com/r/tosa32
 
-Discord: tosa#3893
+Discord: 
+tosa#3893
+mazzzke21#3781
