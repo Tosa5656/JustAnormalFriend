@@ -13,3 +13,8 @@
 - mazzzke21 -- сценарист;
 
 Участники разроботки будут добавляться во время
+
+Поддержать автора.
+DonationAlerts: https://www.donationalerts.com/r/tosa32
+
+Discord: tosa#3893
